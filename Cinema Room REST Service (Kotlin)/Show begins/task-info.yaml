@@ -1,0 +1,28 @@
+type: edu
+files:
+  - name: src/cinema/Application.kt
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/cinema/model/Seat.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/model/CinemaInfo.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/model/CinemaController.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/263/stages/1331/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 16 Nov 2026 12:01:54 UTC"
+record: -1

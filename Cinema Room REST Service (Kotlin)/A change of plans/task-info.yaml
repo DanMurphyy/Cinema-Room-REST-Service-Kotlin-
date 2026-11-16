@@ -1,0 +1,47 @@
+type: edu
+files:
+  - name: src/cinema/Application.kt
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: true
+    learner_created: false
+  - name: src/cinema/model/Seat.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/CinemaController.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/response/PurchaseRequest.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/model/Ticket.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/response/ErrorResponse.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/model/CinemaInfo.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/response/PurchaseResponse.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/response/ReturnRequest.kt
+    visible: true
+    learner_created: true
+  - name: src/cinema/response/ReturnResponse.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/263/stages/1333/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 16 Nov 2026 17:35:05 UTC"
+record: -1
